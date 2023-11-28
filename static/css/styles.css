@@ -1,0 +1,9 @@
+table {
+    border: 2px solid red
+
+}
+th, td {
+    border: 1px solid blue;
+    width: 100px;
+    text-align: center;
+}
